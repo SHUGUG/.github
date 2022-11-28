@@ -13,10 +13,13 @@
 
 
 ##  **欢迎来到上海大学极客团 👨‍💻**
+<img src="https://user-images.githubusercontent.com/100942238/204237826-6881d8d1-c4a8-438c-8264-67ec651a0974.png" width="20%">
+
 
 ---
 
-- 🌈 **参与贡献可直接`fork`后`Pull Request`，或入群交流，欢迎所有上大人成为我们的一员**
+- 🌈 **参与贡献可直接`fork`后`Pull Request`，或[入群](https://jq.qq.com/?_wv=1027&k=I4dXMZeD)交流，欢迎所有上大人成为我们的一员**
+<img src="https://user-images.githubusercontent.com/100942238/204237864-131d11da-18f8-4d7c-ba15-21772476efaf.png" width="30%">
 
 ---
 
